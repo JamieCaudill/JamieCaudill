@@ -19,4 +19,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jam.caudill/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.caudill7177@gmail.com)
 
+---
+
 ⚡ Fun fact: All polar bears are left-handed, or rather, left-pawed. 🐻‍❄️
