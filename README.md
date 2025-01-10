@@ -7,7 +7,7 @@
 
 🌱 I’m currently working as a Software Engineer at myBalto. View my professional Github account [here](https://github.com/jdcaudill).
 
-🏔 I am a former ski/rock climbing instructor and professional photographer with a BA in Sustainability studies who is excited about this new path and ready to learn.
+🏔 I am a veteran of the US Navy, and a former ski and rock climbing instructor.
 
 💬 My favorite ways to spend my freetime include: skiing, climbing, surfing, photography, writing and performing music, and drinking tea while reading books.
 
