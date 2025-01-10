@@ -1,11 +1,11 @@
 <h1 style="text-align: center;">Hi! I'm Jamie Caudill</h1>
-<h3>Front End Developer | Outdoor Professional | Sustainability Advocate</h3>
+<h3>Software Developer</h3>
 
 <!-- ![alt text](https://media.giphy.com/media/jbjnnBBzgiZ7VIBP4G/giphy.gif) -->
 
 <img src= "https://media.giphy.com/media/jbjnnBBzgiZ7VIBP4G/giphy.gif" alt="gif" height=40% width=40%>
 
-🌱 I’m currently learning Front End Development at Turing School of Software and Design. 
+🌱 I’m currently working as a Software Engineer at myBalto. View my professional Github account [here](https://github.com/jdcaudill).
 
 🏔 I am a former ski/rock climbing instructor and professional photographer with a BA in Sustainability studies who is excited about this new path and ready to learn.
 
